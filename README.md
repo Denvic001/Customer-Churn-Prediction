@@ -15,14 +15,24 @@ The project will use historical customer data—including demographics, service 
  
  Step By Step Notebook Structure 
 
- Data Loading & Cleaning
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Preprocessing (Encoding, Scaling)
-Train-Test Split
-Modeling: Logistic Regression
-Modeling: Random Forest
-Model Evaluation & Comparison
-Feature Importance & Interpretation
-Business Recommendations
-Cost-Benefit Analysis
+ Data Loading & Cleaning,
+ 
+Exploratory Data Analysis (EDA),
+
+Feature Engineering,
+
+Preprocessing (Encoding, Scaling),
+
+Train-Test Split,
+
+Modeling: Logistic Regression,
+
+Modeling: Random Forest,
+
+Model Evaluation & Comparison,
+
+Feature Importance & Interpretation,
+
+Business Recommendations,
+
+Cost-Benefit Analysis.
