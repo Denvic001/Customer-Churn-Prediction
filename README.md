@@ -13,7 +13,7 @@ What are the main factors contributing to customer churn?
 How can the business intervene to reduce churn, and what is the expected financial impact of these interventions?
 The project will use historical customer data—including demographics, service usage, account information, and previous churn behavior—to build and evaluate predictive models. The final deliverables will include actionable recommendations and a cost-benefit analysis to support data-driven decision-making for customer retention.
  
- Step By Step Notebook Structure 
+ ### Step By Step Notebook Structure 
 
  Data Loading & Cleaning,
  
